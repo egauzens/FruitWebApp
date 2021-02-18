@@ -3,7 +3,8 @@ import "./App.css";
 function App() {
 	return (
 		<div>
-			<header>Welcome to FRUIT</header>
+			<h1>Welcome to F.R.U.I.T.</h1>
+			<h3>This website is currently under development...</h3>
 		</div>
 	);
 }
